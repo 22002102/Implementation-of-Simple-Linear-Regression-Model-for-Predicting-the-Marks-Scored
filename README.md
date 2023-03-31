@@ -73,24 +73,30 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 
-![1](https://user-images.githubusercontent.com/119091638/228565656-91ba5a8e-5dca-42f8-8538-483d53f584f6.png)
 
-![2](https://user-images.githubusercontent.com/119091638/228565705-da988b07-9535-42f9-a268-ebd87e7cd51f.png)
+![L1](https://user-images.githubusercontent.com/119091638/229136565-960a410a-8b6e-4b14-bd0f-4d11b39ff6c2.png)
 
-![3](https://user-images.githubusercontent.com/119091638/228565766-ae343b23-bbc5-4a68-99e5-ef324e1f0fe8.png)
+![L2](https://user-images.githubusercontent.com/119091638/229136601-8e28b11b-c3db-4e50-9d99-9ed0feba0b75.png)
 
-![4](https://user-images.githubusercontent.com/119091638/228565867-8182e04f-7044-473c-9eba-ea58b854dfc5.png)
+![L3](https://user-images.githubusercontent.com/119091638/229136633-bba1280c-975c-4e1c-a827-fb9198e0f575.png)
 
-![5](https://user-images.githubusercontent.com/119091638/228565921-cb5ae454-1888-49ce-a508-46ac6f12dc9d.png)
+![L4](https://user-images.githubusercontent.com/119091638/229136685-20985525-abec-4e8b-a65d-b0ee73484e22.png)
 
-![6](https://user-images.githubusercontent.com/119091638/228565965-8a40858d-c210-4a34-b3ed-beda7d60bb6c.png)
+![L5](https://user-images.githubusercontent.com/119091638/229136713-9442dd98-d156-4153-8379-9b04b15a4655.png)
 
-![7](https://user-images.githubusercontent.com/119091638/228566017-8b48e63a-c2f4-4975-be12-f9effbb2f1b7.png)
+![L6](https://user-images.githubusercontent.com/119091638/229136738-7eb3211d-2010-4b87-b579-48b7eafce423.png)
 
-![8](https://user-images.githubusercontent.com/119091638/228566048-354bccdd-f35d-4652-819c-b6b9ef7552c2.png)
+![L7](https://user-images.githubusercontent.com/119091638/229136756-462f7f04-72f9-48ec-a1c5-5c1535306beb.png)
+
+![L8](https://user-images.githubusercontent.com/119091638/229136787-0e7290fb-48c3-4319-a2c8-d6b89f29165e.png)
+
+
+
+
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
